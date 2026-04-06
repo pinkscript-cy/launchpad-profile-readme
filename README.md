@@ -22,12 +22,24 @@ _Say hello to your community._
 <details id=0 open>
 <summary><h2>Welcome</h2></summary>
 
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
+# Hi, I'm Ibnu 👋
+
+### Mathematics Student & Data Science Researcher
+I apply mathematical frameworks to solve complex data problems, specifically in **NLP** and **Graph Neural Networks**.
+
+- 🔭 Currently working on: **Mapping the Topic Network of Mathematical Modeling**
+- 🌱 Learning: **Graph Theory applications in Text Mining**
+- ✍️ Skills: **Python, R, LaTeX, BERTopic, NetworkX**
+- 🎯 Goal: **Summer Research Internship 2026**
+
+---
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+### 📈 GitHub Stats
+![Ibnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_DISINI&show_icons=true&theme=radical)
 
 **About your profile README**
 
